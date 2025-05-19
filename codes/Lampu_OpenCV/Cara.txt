@@ -1,0 +1,15 @@
+Source: https://www.computervision.zone/courses/finger-counter/
+
+1. Install mediapipe
+pip install mediapipe
+2. Setup camera, 0 untuk webcam bawaan, 1 untuk eksternal webcam
+cap = cv2.VideoCapture(0)
+3. Jalankan program
+F:
+cd F:\5.Data Yaser\Project\OpenCV\Finger Counter\computervision.zone
+python FingerCounter.py
+
+
+Untuk Nextion:
+1. Install pyserial
+pip install pyserial
